@@ -36,5 +36,9 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 ### CANNY EDGE DETECTOR
 <img width="546" height="597" alt="image" src="https://github.com/user-attachments/assets/35a63b3a-d842-49bc-841d-0fe18f0bdcbd" />
 
+
+Developed by: S.T.DHANAAAKHAASH
+Register Number: 212224240032
+
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
